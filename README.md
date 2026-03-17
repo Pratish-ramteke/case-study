@@ -1,4 +1,4 @@
-# TechTube
+# YouTube
 ### Video Recommendation Window — Case Study
 **UI/UX Design & Frontend Development Assignment | 2026**
 
